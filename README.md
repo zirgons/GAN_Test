@@ -1,2 +1,3 @@
-# GAN_Test
-Machine learning GAN test 
+# Machine Learning GAN test
+As dataset for images used https://www.kaggle.com/datasets/splcher/animefacedataset
+There may be chance that Discriminator has a bug, but can't locate the problem
